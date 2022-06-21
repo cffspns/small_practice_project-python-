@@ -1,0 +1,1 @@
+Python terminal version of WORDLE, for practice
